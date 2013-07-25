@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdf2image.SautinSoft.PdfFoc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdf2image.TallComponents.PDF.Rasterizer", "pdf2image.TallComponents.PDF.Rasterizer\pdf2image.TallComponents.PDF.Rasterizer.csproj", "{0D32BD3A-B93E-4CFC-8A6B-69BE368330C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word2image.Aspose", "word2image.Aspose\word2image.Aspose.csproj", "{230C7B95-891C-4CB5-BE8B-BF2A09655E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word2pdf.Microsoft", "word2pdf.Microsoft\word2pdf.Microsoft.csproj", "{324BFC4D-8F79-479F-997A-49A00023EAC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,14 @@ Global
 		{0D32BD3A-B93E-4CFC-8A6B-69BE368330C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D32BD3A-B93E-4CFC-8A6B-69BE368330C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D32BD3A-B93E-4CFC-8A6B-69BE368330C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230C7B95-891C-4CB5-BE8B-BF2A09655E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230C7B95-891C-4CB5-BE8B-BF2A09655E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230C7B95-891C-4CB5-BE8B-BF2A09655E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230C7B95-891C-4CB5-BE8B-BF2A09655E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324BFC4D-8F79-479F-997A-49A00023EAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324BFC4D-8F79-479F-997A-49A00023EAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324BFC4D-8F79-479F-997A-49A00023EAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324BFC4D-8F79-479F-997A-49A00023EAC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
